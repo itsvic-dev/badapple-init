@@ -1,0 +1,8 @@
+frames/
+initfs/
+kernel/
+badappleinit
+badapple.mp4
+init.iso
+*.d
+*.o
